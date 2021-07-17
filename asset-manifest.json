@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-dashboard-route/static/css/main.a617e044.chunk.css",
+    "main.js": "/React-dashboard-route/static/js/main.cb5e87cb.chunk.js",
+    "main.js.map": "/React-dashboard-route/static/js/main.cb5e87cb.chunk.js.map",
+    "runtime-main.js": "/React-dashboard-route/static/js/runtime-main.dcacd990.js",
+    "runtime-main.js.map": "/React-dashboard-route/static/js/runtime-main.dcacd990.js.map",
+    "static/js/2.efff026a.chunk.js": "/React-dashboard-route/static/js/2.efff026a.chunk.js",
+    "static/js/2.efff026a.chunk.js.map": "/React-dashboard-route/static/js/2.efff026a.chunk.js.map",
+    "index.html": "/React-dashboard-route/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/React-dashboard-route/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.efff026a.chunk.js.LICENSE.txt": "/React-dashboard-route/static/js/2.efff026a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcacd990.js",
+    "static/js/2.efff026a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.cb5e87cb.chunk.js"
+  ]
+}
